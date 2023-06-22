@@ -1,4 +1,4 @@
-name: CI_gen
+name: CI_test
 
 on:
   push:
